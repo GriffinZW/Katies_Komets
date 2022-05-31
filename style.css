@@ -13,7 +13,7 @@ html {
     url("https://i.imgur.com/L3qBmGx.png");
 
   /* Set a specific height */
-  height: 50%;
+  height: 40%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
@@ -28,14 +28,20 @@ html {
   /* Sergios ^ */
 }
 body,
-h3 {
+h3,
+p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 700;
 }
 
 footer {
   display: block;
   text-align: center;
-  padding: 3px;
   background-color: black;
   color: grey;
+}
+.katieKirlinFund {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
 }
